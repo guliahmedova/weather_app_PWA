@@ -6,3 +6,6 @@
 
 
 In this project, I create a PWA and I used React with service workers.
+
+You can download the project locally
+
